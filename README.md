@@ -1,2 +1,2 @@
 # Tensorflow-eager-execution
-机器学习全新教程
+使用 tensorflow eager execution 的机器学习全新教程
