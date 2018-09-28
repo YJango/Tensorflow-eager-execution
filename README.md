@@ -4,3 +4,4 @@
 * [视频地址](http://www.zhihu.com/people/YJango)
   * [S01: 机器学习](https://zhuanlan.zhihu.com/p/44217906)
   * [M01: 因素与速率](https://zhuanlan.zhihu.com/p/44852385)
+  * [L01: 深度学习](https://zhuanlan.zhihu.com/p/45516367)
